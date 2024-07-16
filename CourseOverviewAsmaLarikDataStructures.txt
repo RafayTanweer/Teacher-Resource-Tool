@@ -1,0 +1,22 @@
+Week1
+Arrays
+Week2
+Linear Search and Binary Search
+Week3
+Lists
+Week4
+Stacks and its applications
+Week5
+Queues
+Week6
+Recursion
+Week7
+Binary Trees
+Week8
+Hashing
+Week9
+Sorting
+Week10
+Balanced trees
+Week11
+Revision

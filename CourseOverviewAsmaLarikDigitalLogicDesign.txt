@@ -1,0 +1,22 @@
+Week1
+Introduction to circuits.
+Week2
+Logic Gates.
+Week3
+LED.
+Week4
+Diodes.
+Week5
+7 segment display.
+Week6
+Soldering Process.
+Week7
+Latches.
+Week8
+S-R Flip Flops.
+Week9
+J-K Flip Flops.
+Week10
+Syn/Async counters.
+Week11
+Revision

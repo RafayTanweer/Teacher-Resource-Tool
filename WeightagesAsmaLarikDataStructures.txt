@@ -1,0 +1,14 @@
+Final
+35.0
+Mid
+20.0
+Assignment
+18.0
+Quiz
+10.0
+LabTask
+10.0
+ClassParticipation
+6
+BonusMarks
+2.0

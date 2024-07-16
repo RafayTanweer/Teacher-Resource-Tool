@@ -1,0 +1,12 @@
+Final
+2
+Mode = One online typed exam and one viva.
+Mid
+1
+Mode = OnCampus
+Assignment
+4
+n-2 policy
+Quiz
+5
+n-1 policy

@@ -1,0 +1,12 @@
+Final
+45.0
+Mid
+20.0
+Assignment
+10.0
+Quiz
+15.0
+LabTask
+7.0
+ClassParticipation
+3.0

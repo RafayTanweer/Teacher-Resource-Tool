@@ -1,0 +1,22 @@
+Week1
+An Introduction to Issues in Solving Non-Linear Equations. 
+Week2
+Bisection Method. Newton’s Method. Applications.
+Week3
+Secant Method. Method of False Position. 
+Week4
+Acceleration of Convergence.
+Week5
+Horner’s Method. The QD-Algorithm.
+Week6
+Lagrange Polynomials.
+Week7
+The Bezier Curves and its Applications.
+Week8
+Numerical Differentiation.
+Week9
+Richardson’ Extrapolation.
+Week10
+Euler’s Method of solving an Initial Value Problem.
+Week11
+Linear Regression.

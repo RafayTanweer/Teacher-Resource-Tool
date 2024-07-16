@@ -1,0 +1,10 @@
+Final
+40.0
+Mid
+20.0
+Assignment
+15.0
+Quiz
+20.0
+ClassParticipation
+5.0

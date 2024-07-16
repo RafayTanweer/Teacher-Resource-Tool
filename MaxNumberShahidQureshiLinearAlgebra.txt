@@ -1,0 +1,12 @@
+Final
+1
+Mode = Online(covid-19 safety precaution)
+Mid
+2
+Best of the two will be counted. Mode = OnCampus/Online
+Assignment
+4
+n-1 policy
+Quiz
+5
+n-2 policy

@@ -1,0 +1,15 @@
+Final
+1
+Mode = Online(covid-19 safety precaution)
+Mid
+1
+Mode = OnCampus/Online
+Assignment
+4
+n-1 policy
+Quiz
+4
+n-1 policy
+LabTask
+12
+n-2 policy

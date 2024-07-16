@@ -1,0 +1,15 @@
+Final
+1
+Mode = Online(covid-19 safety precaution)
+Mid
+2
+Both will be counted and equal weightage
+Assignment
+3
+n-1 policy
+Quiz
+4
+n-1 policy
+LabTask
+17
+n-2 policy
